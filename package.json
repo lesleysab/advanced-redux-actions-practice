@@ -18,5 +18,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "###  Reducers   * Create Reducers in reducers/index.js   * Look at state.js and create a reducer for each piece of state   * Remember reducers take 2 parameters: `state`, and `action`   * Remember to give state a default value appropriate for what type it is in the reducer. Number, string, array, object   * Remember to return state if the reducer doesn't care about the action   * You will need to decide which reducer cares about which action type   * Combine reducers and export",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesleysab/advanced-redux-actions-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesleysab/advanced-redux-actions-practice/issues"
+  },
+  "homepage": "https://github.com/lesleysab/advanced-redux-actions-practice#readme"
 }
